@@ -1,42 +1,42 @@
-a{
-    /* text-decoration: none !important; */
+a {
+  text-decoration: none !important;
 }
 
-h1{
-    font-size: 3rem;
-    font-weight: bold;
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
 }
 
-h1 span{
-    color: orangered;
+h1 span {
+  color: orangered;
 }
 
-.whatsapp span{
-    padding-left: 1rem;
-    text-decoration: none;
-    color: orangered;
+.whatsapp span {
+  padding-left: 1rem;
+  text-decoration: none !important;
+  color: orangered;
 }
 
-.whatsapp span:hover{
-    text-decoration: underline;
+.whatsapp span:hover {
+  text-decoration: underline;
 }
 
-.icon{
-    color: rgb(2, 2, 34);
+.icon {
+  color: rgb(2, 2, 34);
 }
 
-.image{
-    border-radius: 100%;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+.image {
+  border-radius: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.html{
-    background-color: rgb(2, 2, 34);
+.html {
+  background-color: rgb(2, 2, 34);
 }
-.css{
-    background-color: orangered;
+.css {
+  background-color: orangered;
 }
 
-.skills_link:hover{
-    text-decoration: underline;
+.skills_link:hover {
+  text-decoration: underline;
 }
