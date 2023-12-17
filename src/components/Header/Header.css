@@ -1,0 +1,22 @@
+.navbar{
+    background-color: rgb(2, 2, 34);
+}
+
+.navbar-brand span{
+    font-weight: bold;
+    color: orangered;
+}
+
+.navbar-text button{
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background: transparent;
+    transition: all 0.3s;
+}
+
+.navbar-text button:hover{
+    background-color: #fff;
+    color: rgb(2, 2, 34);
+}
