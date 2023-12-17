@@ -24,12 +24,17 @@ const Hero = () => {
                 <span className="fs-5 fw-bold">WhatsApp</span>
               </div>
             </a>
-                <p className="mt-4">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Labore accusantium reprehenderit est perferendis fugiat. Ab
-                  aliquam veritatis veniam unde eum totam, quis possimus rem
-                  omnis inventore corrupti. Quam, eveniet corrupti.
-                </p>
+            <h4 className="mt-3 fw-bold">Skills:</h4>
+                <div className="html text-center p-1 mt-3">
+                    <p className="pt-3 fw-bold text-white">HTML | 100%</p>
+                </div>
+                <div className="css text-center p-1">
+                    <p className="pt-3 fw-bold text-white">CSS | 100%</p>
+                </div>
+                <div className="html bg-primary text-center p-1 mb-3">
+                    <p className="pt-3 fw-bold text-white">BOOTSTRAP | 100%</p>
+                </div>
+                <a className="skills_link text-dark" href="#">View Skills</a>
           </div>
           <div className="col-12 col-sm-12 col-md-6 col-lg-6 mb-5">
           <img className="image w-100 animate__animated animate__fadeInDown" src={hero_pic} alt="" />

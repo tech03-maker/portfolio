@@ -1,5 +1,5 @@
 a{
-    text-decoration: none !important;
+    /* text-decoration: none !important; */
 }
 
 h1{
@@ -28,4 +28,15 @@ h1 span{
 .image{
     border-radius: 100%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.html{
+    background-color: rgb(2, 2, 34);
+}
+.css{
+    background-color: orangered;
+}
+
+.skills_link:hover{
+    text-decoration: underline;
 }
